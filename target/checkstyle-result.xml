@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\GamePlay\Finish.java">
+</file>
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\GamePlay\Gameplay.java">
+</file>
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\GamePlay\Movement.java">
+</file>
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\GamePlay\PickupGold.java">
+</file>
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\GamePlay\Turn.java">
+</file>
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\Main.java">
+</file>
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\MapEditor\AddElement.java">
+</file>
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\MapEditor\MapEditor.java">
+</file>
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\MapEditor\RemoveElement.java">
+</file>
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\MapEditor\RemoveGold.java">
+</file>
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\Menu\Menu.java">
+</file>
+<file name="C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\Menu\UserName.java">
+</file>
+</checkstyle>

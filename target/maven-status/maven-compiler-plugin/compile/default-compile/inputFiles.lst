@@ -1,2 +1,12 @@
-C:\JAVA GYAKORLATOK\wumpusz\src\main\java\Menu\Menu.java
-C:\JAVA GYAKORLATOK\wumpusz\src\main\java\Menu\UserName.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\Main.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\Menu\UserName.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\MapEditor\AddElement.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\Menu\Menu.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\MapEditor\MapEditor.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\MapEditor\RemoveElement.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\MapEditor\RemoveGold.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\GamePlay\Finish.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\GamePlay\Gameplay.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\GamePlay\PickupGold.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\GamePlay\Movement.java
+C:\JAVA GYAKORLATOK\wumpusz\src\main\java\hu\nye\progtech\wumpusz\GamePlay\Turn.java

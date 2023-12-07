@@ -1,2 +1,14 @@
-Menu\Menu.class
-Menu\UserName.class
+hu\nye\progtech\wumpusz\Menu\UserName.class
+hu\nye\progtech\wumpusz\GamePlay\Turn$1.class
+hu\nye\progtech\wumpusz\Main.class
+hu\nye\progtech\wumpusz\GamePlay\Turn$Direction.class
+hu\nye\progtech\wumpusz\GamePlay\Turn.class
+hu\nye\progtech\wumpusz\GamePlay\Finish.class
+hu\nye\progtech\wumpusz\MapEditor\RemoveElement.class
+hu\nye\progtech\wumpusz\GamePlay\PickupGold.class
+hu\nye\progtech\wumpusz\MapEditor\RemoveGold.class
+hu\nye\progtech\wumpusz\Menu\Menu.class
+hu\nye\progtech\wumpusz\GamePlay\Movement.class
+hu\nye\progtech\wumpusz\MapEditor\MapEditor.class
+hu\nye\progtech\wumpusz\MapEditor\AddElement.class
+hu\nye\progtech\wumpusz\GamePlay\Gameplay.class
